@@ -1,0 +1,6 @@
+D:\School\1.Semester\Test\TestHandin2\TestHandin2\bin\Debug\TestHandin2.exe.config
+D:\School\1.Semester\Test\TestHandin2\TestHandin2\bin\Debug\TestHandin2.exe
+D:\School\1.Semester\Test\TestHandin2\TestHandin2\bin\Debug\TestHandin2.pdb
+D:\School\1.Semester\Test\TestHandin2\TestHandin2\obj\Debug\TestHandin2.csprojResolveAssemblyReference.cache
+D:\School\1.Semester\Test\TestHandin2\TestHandin2\obj\Debug\TestHandin2.exe
+D:\School\1.Semester\Test\TestHandin2\TestHandin2\obj\Debug\TestHandin2.pdb

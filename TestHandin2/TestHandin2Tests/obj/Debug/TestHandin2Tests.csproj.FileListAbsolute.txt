@@ -1,0 +1,9 @@
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\bin\Debug\TestHandin2Tests.dll
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\bin\Debug\TestHandin2Tests.pdb
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\bin\Debug\TestHandin2.exe
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\bin\Debug\TestHandin2.pdb
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\obj\Debug\TestHandin2Tests.csprojResolveAssemblyReference.cache
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\obj\Debug\TestHandin2Tests.dll
+D:\School\1.Semester\Test\TestHandin2\TestHandin2Tests\obj\Debug\TestHandin2Tests.pdb
